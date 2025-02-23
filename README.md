@@ -17,7 +17,6 @@ PatientFlow Insight Dashboard is a Power BI-based solution designed to optimize 
 ### Prerequisites
 - Power BI installed ([Download Here](https://powerbi.microsoft.com))
 - Required datasets (provided in the repository)
-- SQL Server (if used for data storage)
 
 ### Steps to Run the Dashboard
 1. Clone this repository:  
